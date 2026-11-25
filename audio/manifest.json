@@ -1,0 +1,338 @@
+[
+  {
+    "index": 1,
+    "id": "alif",
+    "letter": "ا",
+    "name": "أَلِف",
+    "audio": {
+      "name": "01_alif_name.mp3",
+      "fatha": "01_alif_fatha.mp3",
+      "damma": "01_alif_damma.mp3",
+      "kasra": "01_alif_kasra.mp3"
+    }
+  },
+  {
+    "index": 2,
+    "id": "baa",
+    "letter": "ب",
+    "name": "بَاء",
+    "audio": {
+      "name": "02_baa_name.mp3",
+      "fatha": "02_baa_fatha.mp3",
+      "damma": "02_baa_damma.mp3",
+      "kasra": "02_baa_kasra.mp3"
+    }
+  },
+  {
+    "index": 3,
+    "id": "taa",
+    "letter": "ت",
+    "name": "تَاء",
+    "audio": {
+      "name": "03_taa_name.mp3",
+      "fatha": "03_taa_fatha.mp3",
+      "damma": "03_taa_damma.mp3",
+      "kasra": "03_taa_kasra.mp3"
+    }
+  },
+  {
+    "index": 4,
+    "id": "thaa",
+    "letter": "ث",
+    "name": "ثَاء",
+    "audio": {
+      "name": "04_thaa_name.mp3",
+      "fatha": "04_thaa_fatha.mp3",
+      "damma": "04_thaa_damma.mp3",
+      "kasra": "04_thaa_kasra.mp3"
+    }
+  },
+  {
+    "index": 5,
+    "id": "jeem",
+    "letter": "ج",
+    "name": "جِيم",
+    "audio": {
+      "name": "05_jeem_name.mp3",
+      "fatha": "05_jeem_fatha.mp3",
+      "damma": "05_jeem_damma.mp3",
+      "kasra": "05_jeem_kasra.mp3"
+    }
+  },
+  {
+    "index": 6,
+    "id": "haa",
+    "letter": "ح",
+    "name": "حَاء",
+    "audio": {
+      "name": "06_haa_name.mp3",
+      "fatha": "06_haa_fatha.mp3",
+      "damma": "06_haa_damma.mp3",
+      "kasra": "06_haa_kasra.mp3"
+    }
+  },
+  {
+    "index": 7,
+    "id": "khaa",
+    "letter": "خ",
+    "name": "خَاء",
+    "audio": {
+      "name": "07_khaa_name.mp3",
+      "fatha": "07_khaa_fatha.mp3",
+      "damma": "07_khaa_damma.mp3",
+      "kasra": "07_khaa_kasra.mp3"
+    }
+  },
+  {
+    "index": 8,
+    "id": "dal",
+    "letter": "د",
+    "name": "دَال",
+    "audio": {
+      "name": "08_dal_name.mp3",
+      "fatha": "08_dal_fatha.mp3",
+      "damma": "08_dal_damma.mp3",
+      "kasra": "08_dal_kasra.mp3"
+    }
+  },
+  {
+    "index": 9,
+    "id": "thal",
+    "letter": "ذ",
+    "name": "ذَال",
+    "audio": {
+      "name": "09_thal_name.mp3",
+      "fatha": "09_thal_fatha.mp3",
+      "damma": "09_thal_damma.mp3",
+      "kasra": "09_thal_kasra.mp3"
+    }
+  },
+  {
+    "index": 10,
+    "id": "raa",
+    "letter": "ر",
+    "name": "رَاء",
+    "audio": {
+      "name": "10_raa_name.mp3",
+      "fatha": "10_raa_fatha.mp3",
+      "damma": "10_raa_damma.mp3",
+      "kasra": "10_raa_kasra.mp3"
+    }
+  },
+  {
+    "index": 11,
+    "id": "zay",
+    "letter": "ز",
+    "name": "زَاي",
+    "audio": {
+      "name": "11_zay_name.mp3",
+      "fatha": "11_zay_fatha.mp3",
+      "damma": "11_zay_damma.mp3",
+      "kasra": "11_zay_kasra.mp3"
+    }
+  },
+  {
+    "index": 12,
+    "id": "seen",
+    "letter": "س",
+    "name": "سِين",
+    "audio": {
+      "name": "12_seen_name.mp3",
+      "fatha": "12_seen_fatha.mp3",
+      "damma": "12_seen_damma.mp3",
+      "kasra": "12_seen_kasra.mp3"
+    }
+  },
+  {
+    "index": 13,
+    "id": "sheen",
+    "letter": "ش",
+    "name": "شِين",
+    "audio": {
+      "name": "13_sheen_name.mp3",
+      "fatha": "13_sheen_fatha.mp3",
+      "damma": "13_sheen_damma.mp3",
+      "kasra": "13_sheen_kasra.mp3"
+    }
+  },
+  {
+    "index": 14,
+    "id": "sad",
+    "letter": "ص",
+    "name": "صَاد",
+    "audio": {
+      "name": "14_sad_name.mp3",
+      "fatha": "14_sad_fatha.mp3",
+      "damma": "14_sad_damma.mp3",
+      "kasra": "14_sad_kasra.mp3"
+    }
+  },
+  {
+    "index": 15,
+    "id": "dad",
+    "letter": "ض",
+    "name": "ضَاد",
+    "audio": {
+      "name": "15_dad_name.mp3",
+      "fatha": "15_dad_fatha.mp3",
+      "damma": "15_dad_damma.mp3",
+      "kasra": "15_dad_kasra.mp3"
+    }
+  },
+  {
+    "index": 16,
+    "id": "taa2",
+    "letter": "ط",
+    "name": "طَاء",
+    "audio": {
+      "name": "16_taa2_name.mp3",
+      "fatha": "16_taa2_fatha.mp3",
+      "damma": "16_taa2_damma.mp3",
+      "kasra": "16_taa2_kasra.mp3"
+    }
+  },
+  {
+    "index": 17,
+    "id": "zaa",
+    "letter": "ظ",
+    "name": "ظَاء",
+    "audio": {
+      "name": "17_zaa_name.mp3",
+      "fatha": "17_zaa_fatha.mp3",
+      "damma": "17_zaa_damma.mp3",
+      "kasra": "17_zaa_kasra.mp3"
+    }
+  },
+  {
+    "index": 18,
+    "id": "ain",
+    "letter": "ع",
+    "name": "عَيْن",
+    "audio": {
+      "name": "18_ain_name.mp3",
+      "fatha": "18_ain_fatha.mp3",
+      "damma": "18_ain_damma.mp3",
+      "kasra": "18_ain_kasra.mp3"
+    }
+  },
+  {
+    "index": 19,
+    "id": "ghain",
+    "letter": "غ",
+    "name": "غَيْن",
+    "audio": {
+      "name": "19_ghain_name.mp3",
+      "fatha": "19_ghain_fatha.mp3",
+      "damma": "19_ghain_damma.mp3",
+      "kasra": "19_ghain_kasra.mp3"
+    }
+  },
+  {
+    "index": 20,
+    "id": "faa",
+    "letter": "ف",
+    "name": "فَاء",
+    "audio": {
+      "name": "20_faa_name.mp3",
+      "fatha": "20_faa_fatha.mp3",
+      "damma": "20_faa_damma.mp3",
+      "kasra": "20_faa_kasra.mp3"
+    }
+  },
+  {
+    "index": 21,
+    "id": "qaf",
+    "letter": "ق",
+    "name": "قَاف",
+    "audio": {
+      "name": "21_qaf_name.mp3",
+      "fatha": "21_qaf_fatha.mp3",
+      "damma": "21_qaf_damma.mp3",
+      "kasra": "21_qaf_kasra.mp3"
+    }
+  },
+  {
+    "index": 22,
+    "id": "kaf",
+    "letter": "ك",
+    "name": "كَاف",
+    "audio": {
+      "name": "22_kaf_name.mp3",
+      "fatha": "22_kaf_fatha.mp3",
+      "damma": "22_kaf_damma.mp3",
+      "kasra": "22_kaf_kasra.mp3"
+    }
+  },
+  {
+    "index": 23,
+    "id": "lam",
+    "letter": "ل",
+    "name": "لَام",
+    "audio": {
+      "name": "23_lam_name.mp3",
+      "fatha": "23_lam_fatha.mp3",
+      "damma": "23_lam_damma.mp3",
+      "kasra": "23_lam_kasra.mp3"
+    }
+  },
+  {
+    "index": 24,
+    "id": "meem",
+    "letter": "م",
+    "name": "مِيم",
+    "audio": {
+      "name": "24_meem_name.mp3",
+      "fatha": "24_meem_fatha.mp3",
+      "damma": "24_meem_damma.mp3",
+      "kasra": "24_meem_kasra.mp3"
+    }
+  },
+  {
+    "index": 25,
+    "id": "noon",
+    "letter": "ن",
+    "name": "نُون",
+    "audio": {
+      "name": "25_noon_name.mp3",
+      "fatha": "25_noon_fatha.mp3",
+      "damma": "25_noon_damma.mp3",
+      "kasra": "25_noon_kasra.mp3"
+    }
+  },
+  {
+    "index": 26,
+    "id": "haa2",
+    "letter": "ه",
+    "name": "هَاء",
+    "audio": {
+      "name": "26_haa2_name.mp3",
+      "fatha": "26_haa2_fatha.mp3",
+      "damma": "26_haa2_damma.mp3",
+      "kasra": "26_haa2_kasra.mp3"
+    }
+  },
+  {
+    "index": 27,
+    "id": "waw",
+    "letter": "و",
+    "name": "وَاو",
+    "audio": {
+      "name": "27_waw_name.mp3",
+      "fatha": "27_waw_fatha.mp3",
+      "damma": "27_waw_damma.mp3",
+      "kasra": "27_waw_kasra.mp3"
+    }
+  },
+  {
+    "index": 28,
+    "id": "yaa",
+    "letter": "ي",
+    "name": "يَاء",
+    "audio": {
+      "name": "28_yaa_name.mp3",
+      "fatha": "28_yaa_fatha.mp3",
+      "damma": "28_yaa_damma.mp3",
+      "kasra": "28_yaa_kasra.mp3"
+    }
+  }
+]
