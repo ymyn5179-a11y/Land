@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-25T10:54:25.803Z",
+  "generatedAt": "2026-11-25T12:13:31.803Z",
   "totalAssets": 1500,
   "arabicAssets": 845,
   "englishAssets": 655,
-  "readyCount": 75,
-  "validCount": 75,
-  "missingCount": 1425,
+  "readyCount": 291,
+  "validCount": 291,
+  "missingCount": 1209,
   "invalidCount": 0,
   "needsReviewCount": 4,
   "verifiedCorrectCount": 0,
@@ -100,12 +100,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_01857e8c7eb8fa9d.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_01857e8c7eb8fa9d.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 45504,
+      "durationSeconds": 7.6,
+      "maxVolumeDb": -4.1,
+      "ttsPromptText": "Orange — برتقالي! تعال لنكتشف معاً سر هذا اللون الرائع في عالمنا!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_020288924d39ff67",
@@ -146,12 +148,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_0263a5dd0c4a475c.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_0263a5dd0c4a475c.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 35856,
+      "durationSeconds": 6,
+      "maxVolumeDb": -5.9,
+      "ttsPromptText": "تبدأ كلمة \"أرنب\" بحرف (أ) — هيا ننطقه معاً!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_029d10674ab0b9aa",
@@ -215,12 +219,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_0366ba8a6515528d.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_0366ba8a6515528d.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 28080,
+      "durationSeconds": 4.7,
+      "maxVolumeDb": -5.7,
+      "ttsPromptText": "أهلاً يا بطل! ده حرف القَاف — ق",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_0371e15bea925ceb",
@@ -238,12 +244,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_0371e15bea925ceb.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_0371e15bea925ceb.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 11808,
+      "durationSeconds": 2,
+      "maxVolumeDb": -4,
+      "ttsPromptText": "خ — خروف",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_03881e8babb1c849",
@@ -309,12 +317,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_03cd8dad661df824.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_03cd8dad661df824.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12096,
+      "durationSeconds": 2,
+      "maxVolumeDb": -5.2,
+      "ttsPromptText": "ف — فيل",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_040d561d79137bc0",
@@ -408,12 +418,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_05d514b180e087ff.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_05d514b180e087ff.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 13392,
+      "durationSeconds": 2.2,
+      "maxVolumeDb": -5.3,
+      "ttsPromptText": "أنا أرى عصفور",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_06a6253b8c83b340",
@@ -537,12 +549,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_079ca3b9f83de945.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_079ca3b9f83de945.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12816,
+      "durationSeconds": 2.1,
+      "maxVolumeDb": -5.3,
+      "ttsPromptText": "ت — تفاحة",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_07ce00127ccadae9",
@@ -1047,12 +1061,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_0dd94f07c1d60603.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_0dd94f07c1d60603.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 33840,
+      "durationSeconds": 5.6,
+      "maxVolumeDb": -6,
+      "ttsPromptText": "تبدأ كلمة \"فيل\" بحرف (ف) — هيا ننطقه معاً!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_0e4a68f565aca932",
@@ -1140,12 +1156,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_0fc199361fc474c2.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_0fc199361fc474c2.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 33984,
+      "durationSeconds": 5.7,
+      "maxVolumeDb": -6.4,
+      "ttsPromptText": "تبدأ كلمة \"تفاحة\" بحرف (ت) — هيا ننطقه معاً!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_113430550615c649",
@@ -1353,12 +1371,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_1383f9f37f97d11c.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_1383f9f37f97d11c.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12384,
+      "durationSeconds": 2.1,
+      "maxVolumeDb": -5.5,
+      "ttsPromptText": "أنا أرى موز",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_138cfbd7dbfa73e6",
@@ -1497,12 +1517,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_149f1e150f1e0ab7.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_149f1e150f1e0ab7.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 13248,
+      "durationSeconds": 2.2,
+      "maxVolumeDb": -5.6,
+      "ttsPromptText": "أنا أرى كتاب",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_14ae8b8997ab2b7a",
@@ -1615,12 +1637,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_15b1fb4d1b0d7285.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_15b1fb4d1b0d7285.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 13392,
+      "durationSeconds": 2.2,
+      "maxVolumeDb": -4.2,
+      "ttsPromptText": "ي — يد",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_15c074aa4edd3859",
@@ -2048,12 +2072,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_1aafb59b67cc7809.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_1aafb59b67cc7809.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 34128,
+      "durationSeconds": 5.7,
+      "maxVolumeDb": -6.1,
+      "ttsPromptText": "تبدأ كلمة \"وردة\" بحرف (و) — هيا ننطقه معاً!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_1b16f256bd2470c5",
@@ -2336,12 +2362,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_1f2a2a5739d783af.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_1f2a2a5739d783af.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 25200,
+      "durationSeconds": 4.2,
+      "maxVolumeDb": -5,
+      "ttsPromptText": "أهلاً يا بطل! ده حرف الرَاء — ر",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_1f3924dd972589f6",
@@ -2635,12 +2663,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_229ac611206d881a.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_229ac611206d881a.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 13392,
+      "durationSeconds": 2.2,
+      "maxVolumeDb": -5.6,
+      "ttsPromptText": "أنا أرى صاروخ",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_22a696f48af6890f",
@@ -2681,12 +2711,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_23019364ebbf0a3d.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_23019364ebbf0a3d.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 42480,
+      "durationSeconds": 7.1,
+      "maxVolumeDb": -4.2,
+      "ttsPromptText": "Green — أخضر! تعال لنكتشف معاً سر هذا اللون الرائع في عالمنا!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_2361a2d9542832c5",
@@ -2885,12 +2917,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_2508d58d0f8beeac.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_2508d58d0f8beeac.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 28368,
+      "durationSeconds": 4.7,
+      "maxVolumeDb": -4.8,
+      "ttsPromptText": "أهلاً يا بطل! ده حرف الشِين — ش",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_251f88102cd4a3ae",
@@ -3212,12 +3246,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_275415f342aed80a.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_275415f342aed80a.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 26784,
+      "durationSeconds": 4.5,
+      "maxVolumeDb": -4.7,
+      "ttsPromptText": "أهلاً يا بطل! ده حرف الثَاء — ث",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_275f4f98ddc13cd9",
@@ -3402,12 +3438,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_29af41c84406cc00.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_29af41c84406cc00.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12384,
+      "durationSeconds": 2.1,
+      "maxVolumeDb": -5.1,
+      "ttsPromptText": "أنا أرى فيل",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_2a33d7e0f2789748",
@@ -3425,12 +3463,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_2a33d7e0f2789748.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_2a33d7e0f2789748.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12528,
+      "durationSeconds": 2.1,
+      "maxVolumeDb": -5.5,
+      "ttsPromptText": "أنا أرى ذرة",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_2aa35ac6adeb30a2",
@@ -3448,12 +3488,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_2aa35ac6adeb30a2.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_2aa35ac6adeb30a2.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12240,
+      "durationSeconds": 2,
+      "maxVolumeDb": -4.4,
+      "ttsPromptText": "ح — حصان",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_2ab31560a45e989d",
@@ -3471,12 +3513,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_2ab31560a45e989d.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_2ab31560a45e989d.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 13248,
+      "durationSeconds": 2.2,
+      "maxVolumeDb": -5.7,
+      "ttsPromptText": "أنا أرى أرنب",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_2b1b6e3275dfb364",
@@ -3494,12 +3538,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_2b1b6e3275dfb364.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_2b1b6e3275dfb364.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 13248,
+      "durationSeconds": 2.2,
+      "maxVolumeDb": -4.7,
+      "ttsPromptText": "ص — صاروخ",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_2b2219a448ab0ce9",
@@ -3623,12 +3669,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_2cc273e47ea53b96.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_2cc273e47ea53b96.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 33552,
+      "durationSeconds": 5.6,
+      "maxVolumeDb": -5.5,
+      "ttsPromptText": "تبدأ كلمة \"بطة\" بحرف (ب) — هيا ننطقه معاً!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_2ccb02659d237b63",
@@ -4357,12 +4405,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_36210e416450e68f.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_36210e416450e68f.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 42048,
+      "durationSeconds": 7,
+      "maxVolumeDb": -4.2,
+      "ttsPromptText": "White — أبيض! تعال لنكتشف معاً سر هذا اللون الرائع في عالمنا!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_36316df064f13e73",
@@ -4449,12 +4499,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_367bbc377e7fdf4c.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_367bbc377e7fdf4c.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 34560,
+      "durationSeconds": 5.8,
+      "maxVolumeDb": -5.2,
+      "ttsPromptText": "تبدأ كلمة \"يد\" بحرف (ي) — هيا ننطقه معاً!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_36c2fc4d5be1f282",
@@ -4679,12 +4731,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_39f21063b618dafd.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_39f21063b618dafd.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12816,
+      "durationSeconds": 2.1,
+      "maxVolumeDb": -5.6,
+      "ttsPromptText": "أنا أرى ضفدع",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_3a0083995d2ea6ee",
@@ -4800,12 +4854,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_3ac4df1708d39f48.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_3ac4df1708d39f48.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 32544,
+      "durationSeconds": 5.4,
+      "maxVolumeDb": -6.3,
+      "ttsPromptText": "تبدأ كلمة \"جمل\" بحرف (ج) — هيا ننطقه معاً!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_3b182cfe2508c8bb",
@@ -4848,12 +4904,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_3b2cab4399ec7083.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_3b2cab4399ec7083.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 32400,
+      "durationSeconds": 5.4,
+      "maxVolumeDb": -5.8,
+      "ttsPromptText": "تبدأ كلمة \"قمر\" بحرف (ق) — هيا ننطقه معاً!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_3c3c5e94d836b9d6",
@@ -4896,12 +4954,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_3ca91e0cbfb4f2a0.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_3ca91e0cbfb4f2a0.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12960,
+      "durationSeconds": 2.2,
+      "maxVolumeDb": -5.9,
+      "ttsPromptText": "أنا أرى وردة",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_3d2d45e7876fe761",
@@ -5021,12 +5081,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_3f5089a0ad852c1b.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_3f5089a0ad852c1b.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 42480,
+      "durationSeconds": 7.1,
+      "maxVolumeDb": -4.4,
+      "ttsPromptText": "Pink — وردي! تعال لنكتشف معاً سر هذا اللون الرائع في عالمنا!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_3f5a2788eb7bc317",
@@ -5067,12 +5129,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_3f75e4e5c19370fe.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_3f75e4e5c19370fe.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 13392,
+      "durationSeconds": 2.2,
+      "maxVolumeDb": -5.3,
+      "ttsPromptText": "غ — غيمة",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_3f8ae77f05cc9a91",
@@ -5207,12 +5271,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_42635a4fa8676371.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_42635a4fa8676371.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 58176,
+      "durationSeconds": 9.7,
+      "maxVolumeDb": -4.6,
+      "ttsPromptText": "الرقم ليس مجرد شكل! الرقم ٣ يعني ثلاث تفاحات حقيقية يمكننا عدّها واحدة تلو الأخرى.",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_42f9bf089dc3e0e5",
@@ -5263,12 +5329,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_436a0e79c2992fde.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_436a0e79c2992fde.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 45648,
+      "durationSeconds": 7.6,
+      "maxVolumeDb": -4.8,
+      "ttsPromptText": "في السلة ٤ نجوم، أضفنا إليها نجمتين. كم نجمة في السلة الآن؟",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_43c701566525a9bd",
@@ -5595,12 +5663,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_4616b1de8791db8d.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_4616b1de8791db8d.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 45072,
+      "durationSeconds": 7.5,
+      "maxVolumeDb": -4.2,
+      "ttsPromptText": "Purple — بنفسجي! تعال لنكتشف معاً سر هذا اللون الرائع في عالمنا!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_467f3e1bf1eb09c8",
@@ -5794,12 +5864,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_4811c9db32f0abcd.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_4811c9db32f0abcd.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12528,
+      "durationSeconds": 2.1,
+      "maxVolumeDb": -5.3,
+      "ttsPromptText": "أنا أرى شمس",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_4814baf02f00669b",
@@ -5817,12 +5889,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_4814baf02f00669b.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_4814baf02f00669b.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12384,
+      "durationSeconds": 2.1,
+      "maxVolumeDb": -4.3,
+      "ttsPromptText": "ط — طائرة",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_481e348a73181c46",
@@ -5840,12 +5914,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_481e348a73181c46.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_481e348a73181c46.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 13104,
+      "durationSeconds": 2.2,
+      "maxVolumeDb": -6.7,
+      "ttsPromptText": "أنا أرى بطة",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_4877e85579adf5e6",
@@ -6033,12 +6109,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_49f36b3fb3c159e9.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_49f36b3fb3c159e9.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 13104,
+      "durationSeconds": 2.2,
+      "maxVolumeDb": -4.3,
+      "ttsPromptText": "ع — عصفور",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_49f5b4678d579215",
@@ -6154,12 +6232,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_4b2dfdf25153c9f3.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_4b2dfdf25153c9f3.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 31680,
+      "durationSeconds": 5.3,
+      "maxVolumeDb": -5.9,
+      "ttsPromptText": "تبدأ كلمة \"ظرف\" بحرف (ظ) — هيا ننطقه معاً!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_4cd616d02cd8e4c3",
@@ -6177,12 +6257,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_4cd616d02cd8e4c3.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_4cd616d02cd8e4c3.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 27072,
+      "durationSeconds": 4.5,
+      "maxVolumeDb": -5.2,
+      "ttsPromptText": "أهلاً يا بطل! ده حرف الظَاء — ظ",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_4ce8701dab63aa9d",
@@ -6387,12 +6469,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_4edd1bc5c94d09de.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_4edd1bc5c94d09de.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 34848,
+      "durationSeconds": 5.8,
+      "maxVolumeDb": -6,
+      "ttsPromptText": "تبدأ كلمة \"صاروخ\" بحرف (ص) — هيا ننطقه معاً!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_4ef77283f2e0ef11",
@@ -6532,12 +6616,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_504670f4c045157e.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_504670f4c045157e.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 26784,
+      "durationSeconds": 4.5,
+      "maxVolumeDb": -5.2,
+      "ttsPromptText": "أهلاً يا بطل! ده حرف التَاء — ت",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_50636809f34cda7a",
@@ -7248,12 +7334,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_5844b65f43740741.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_5844b65f43740741.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 13680,
+      "durationSeconds": 2.3,
+      "maxVolumeDb": -5.6,
+      "ttsPromptText": "أنا أرى زرافة",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_58455de58aa86b39",
@@ -7945,12 +8033,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_60c47aaed0e95b1d.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_60c47aaed0e95b1d.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12672,
+      "durationSeconds": 2.1,
+      "maxVolumeDb": -5.7,
+      "ttsPromptText": "أنا أرى غيمة",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_60d023e32789c659",
@@ -8295,12 +8385,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_638202a9fe0494b0.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_638202a9fe0494b0.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 33408,
+      "durationSeconds": 5.6,
+      "maxVolumeDb": -6.1,
+      "ttsPromptText": "تبدأ كلمة \"هلال\" بحرف (هـ) — هيا ننطقه معاً!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_638875b7fa3f251a",
@@ -8389,12 +8481,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_64433f4aadf0b4d4.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_64433f4aadf0b4d4.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 16704,
+      "durationSeconds": 2.8,
+      "maxVolumeDb": -5.6,
+      "ttsPromptText": "سيارة أجرة صفراء",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_649547725a6e1a19",
@@ -8467,12 +8561,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_6592d8c70c8cfbad.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_6592d8c70c8cfbad.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 25776,
+      "durationSeconds": 4.3,
+      "maxVolumeDb": -5.5,
+      "ttsPromptText": "أهلاً يا بطل! ده حرف الطَاء — ط",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_65c65bdf08a2cce8",
@@ -8490,12 +8586,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_65c65bdf08a2cce8.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_65c65bdf08a2cce8.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 34560,
+      "durationSeconds": 5.8,
+      "maxVolumeDb": -5.3,
+      "ttsPromptText": "تبدأ كلمة \"سمكة\" بحرف (س) — هيا ننطقه معاً!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_67055cb3f1518c2b",
@@ -8536,12 +8634,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_67b0df81c2f64303.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_67b0df81c2f64303.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 36000,
+      "durationSeconds": 6,
+      "maxVolumeDb": -6.3,
+      "ttsPromptText": "تبدأ كلمة \"ليمون\" بحرف (ل) — هيا ننطقه معاً!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_67e1995553dfffd5",
@@ -8771,12 +8871,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_6a54c268cee22e02.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_6a54c268cee22e02.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 13104,
+      "durationSeconds": 2.2,
+      "maxVolumeDb": -3.8,
+      "ttsPromptText": "خيار أخضر",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_6a5810714174399d",
@@ -8915,12 +9017,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_6adf336d6bf8caf5.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_6adf336d6bf8caf5.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 34128,
+      "durationSeconds": 5.7,
+      "maxVolumeDb": -5.8,
+      "ttsPromptText": "تبدأ كلمة \"ثعلب\" بحرف (ث) — هيا ننطقه معاً!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_6aede2b2393fea0a",
@@ -9032,12 +9136,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_6c55262d890b5dd2.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_6c55262d890b5dd2.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 32688,
+      "durationSeconds": 5.4,
+      "maxVolumeDb": -6.3,
+      "ttsPromptText": "تبدأ كلمة \"ضفدع\" بحرف (ض) — هيا ننطقه معاً!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_6c5bac093daf35fa",
@@ -9277,12 +9383,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_6f0af13df0bff545.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_6f0af13df0bff545.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 13248,
+      "durationSeconds": 2.2,
+      "maxVolumeDb": -4,
+      "ttsPromptText": "و — وردة",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_6f8981209124f9f3",
@@ -9365,10 +9473,11 @@
       "generationStatus": "ready",
       "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 66093,
-      "durationSeconds": 8.2,
-      "maxVolumeDb": null,
-      "updatedAt": "2026-11-25T10:53:38.447Z"
+      "bytes": 42336,
+      "durationSeconds": 7.1,
+      "maxVolumeDb": -4.2,
+      "updatedAt": "2026-11-25T12:12:55.446Z",
+      "ttsPromptText": "Yellow — أصفر! تعال لنكتشف معاً سر هذا اللون الرائع في عالمنا!"
     },
     {
       "assetId": "ar_70181887929542f5",
@@ -9456,12 +9565,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_7252367222167c8a.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_7252367222167c8a.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 11952,
+      "durationSeconds": 2,
+      "maxVolumeDb": -6.2,
+      "ttsPromptText": "أنا أرى دب",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_72883ac4b02abad1",
@@ -9479,12 +9590,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_72883ac4b02abad1.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_72883ac4b02abad1.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 26064,
+      "durationSeconds": 4.3,
+      "maxVolumeDb": -4.4,
+      "ttsPromptText": "أهلاً يا بطل! ده حرف الذَال — ذ",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_72b6c24a15bef47b",
@@ -9502,12 +9615,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_72b6c24a15bef47b.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_72b6c24a15bef47b.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 27936,
+      "durationSeconds": 4.7,
+      "maxVolumeDb": -4.8,
+      "ttsPromptText": "أهلاً يا بطل! ده حرف الزَاي — ز",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_72cfaa794aea4dcd",
@@ -9548,12 +9663,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_73075f5bb2e9c67b.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_73075f5bb2e9c67b.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 28080,
+      "durationSeconds": 4.7,
+      "maxVolumeDb": -5.7,
+      "ttsPromptText": "أهلاً يا بطل! ده حرف الجِيم — ج",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_73283d3cc032ada9",
@@ -9688,12 +9805,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_74af3b5504c7ed65.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_74af3b5504c7ed65.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 33840,
+      "durationSeconds": 5.6,
+      "maxVolumeDb": -6.3,
+      "ttsPromptText": "تبدأ كلمة \"موز\" بحرف (م) — هيا ننطقه معاً!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_74e944438a0a38a5",
@@ -9952,12 +10071,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_783bf8bce0d518a4.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_783bf8bce0d518a4.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 11232,
+      "durationSeconds": 1.9,
+      "maxVolumeDb": -5.8,
+      "ttsPromptText": "أسرة",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_7843f751421e84eb",
@@ -10021,12 +10142,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_78acb2ea34d4e2ea.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_78acb2ea34d4e2ea.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 26928,
+      "durationSeconds": 4.5,
+      "maxVolumeDb": -5.6,
+      "ttsPromptText": "أهلاً يا بطل! ده حرف الكَاف — ك",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_78b15bfdbea75034",
@@ -10044,12 +10167,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_78b15bfdbea75034.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_78b15bfdbea75034.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 13680,
+      "durationSeconds": 2.3,
+      "maxVolumeDb": -5.9,
+      "ttsPromptText": "ر — رمان",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_7969d1e9b16f1e8d",
@@ -10210,12 +10335,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_7adb0caf36907f43.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_7adb0caf36907f43.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 11376,
+      "durationSeconds": 1.9,
+      "maxVolumeDb": -5.3,
+      "ttsPromptText": "ج — جمل",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_7b58378bc4183cd1",
@@ -10383,12 +10510,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_7d8395e439407b30.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_7d8395e439407b30.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 35136,
+      "durationSeconds": 5.9,
+      "maxVolumeDb": -6.4,
+      "ttsPromptText": "تبدأ كلمة \"غيمة\" بحرف (غ) — هيا ننطقه معاً!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_7d9fdc246f63e4df",
@@ -10406,12 +10535,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_7d9fdc246f63e4df.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_7d9fdc246f63e4df.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 11232,
+      "durationSeconds": 1.9,
+      "maxVolumeDb": -4.5,
+      "ttsPromptText": "ظ — ظرف",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_7ddcd948c7ffd9d5",
@@ -10601,12 +10732,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_7ee144ae41b7d05f.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_7ee144ae41b7d05f.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 31536,
+      "durationSeconds": 5.3,
+      "maxVolumeDb": -5.6,
+      "ttsPromptText": "أضف تفاحة إلى ٣ تفاحات، كم يصبح المجموع؟",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_8094493cb938bdfb",
@@ -10624,12 +10757,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_8094493cb938bdfb.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_8094493cb938bdfb.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 37440,
+      "durationSeconds": 6.2,
+      "maxVolumeDb": -4.9,
+      "ttsPromptText": "إذا كان معنا ٣ كعكات وأضفنا ٣ كعكات، كم مجموعها؟",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_80c7c5bfbd7b4ee2",
@@ -11145,12 +11280,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_87b6d3c6f11755ab.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_87b6d3c6f11755ab.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12528,
+      "durationSeconds": 2.1,
+      "maxVolumeDb": -6.4,
+      "ttsPromptText": "أنا أرى ظرف",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_87c8063e3fa3ab79",
@@ -11214,12 +11351,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_87e2c35076d99917.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_87e2c35076d99917.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 33552,
+      "durationSeconds": 5.6,
+      "maxVolumeDb": -6.3,
+      "ttsPromptText": "تبدأ كلمة \"حصان\" بحرف (ح) — هيا ننطقه معاً!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_8916f2735ba0d27b",
@@ -11336,12 +11475,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_8ae203ae9f572674.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_8ae203ae9f572674.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 26352,
+      "durationSeconds": 4.4,
+      "maxVolumeDb": -5.1,
+      "ttsPromptText": "أهلاً يا بطل! ده حرف البَاء — ب",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_8b1bf1631c077ef8",
@@ -11455,12 +11596,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_8cbfd2a964a06303.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_8cbfd2a964a06303.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 26064,
+      "durationSeconds": 4.3,
+      "maxVolumeDb": -4.1,
+      "ttsPromptText": "أهلاً يا بطل! ده حرف الحَاء — ح",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_8cc713631e9c6585",
@@ -12009,12 +12152,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_910203316e68d5a1.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_910203316e68d5a1.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 11952,
+      "durationSeconds": 2,
+      "maxVolumeDb": -5.1,
+      "ttsPromptText": "ز — زرافة",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_913516003e1825c0",
@@ -12220,12 +12365,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_94345c920c40bd5b.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_94345c920c40bd5b.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 13536,
+      "durationSeconds": 2.3,
+      "maxVolumeDb": -5,
+      "ttsPromptText": "أ — أرنب",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_94ec5f65e6e0cf6a",
@@ -12266,12 +12413,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_954fc569069cd7d0.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_954fc569069cd7d0.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 27936,
+      "durationSeconds": 4.7,
+      "maxVolumeDb": -4.3,
+      "ttsPromptText": "أهلاً يا بطل! ده حرف العَيْن — ع",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_95aa58c199ebce0c",
@@ -12511,12 +12660,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_9821946acd674279.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_9821946acd674279.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 50400,
+      "durationSeconds": 8.4,
+      "maxVolumeDb": -4,
+      "ttsPromptText": "مع نونو تفاحتان، أعطته لولو تفاحتين إضافيتين. كم تفاحة مع نونو الآن؟",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_982858035571811e",
@@ -12534,12 +12685,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_982858035571811e.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_982858035571811e.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 25632,
+      "durationSeconds": 4.3,
+      "maxVolumeDb": -5.6,
+      "ttsPromptText": "أهلاً يا بطل! ده حرف الهَاء — هـ",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_9871f5ea8d37347f",
@@ -12699,12 +12852,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_99702c4b2c16d36a.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_99702c4b2c16d36a.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 13248,
+      "durationSeconds": 2.2,
+      "maxVolumeDb": -6,
+      "ttsPromptText": "ن — نجمة",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_9a4f6f6f2e1282b7",
@@ -12747,12 +12902,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_9ad62ed7f3802f69.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_9ad62ed7f3802f69.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 34992,
+      "durationSeconds": 5.8,
+      "maxVolumeDb": -6.2,
+      "ttsPromptText": "تبدأ كلمة \"خروف\" بحرف (خ) — هيا ننطقه معاً!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_9b03686031c530c0",
@@ -13173,12 +13330,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_9ef4d861f1dcdc83.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_9ef4d861f1dcdc83.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 34560,
+      "durationSeconds": 5.8,
+      "maxVolumeDb": -5.9,
+      "ttsPromptText": "تبدأ كلمة \"نجمة\" بحرف (ن) — هيا ننطقه معاً!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_9efc726bc2f4c8f2",
@@ -13219,12 +13378,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_9f11da8661722094.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_9f11da8661722094.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12672,
+      "durationSeconds": 2.1,
+      "maxVolumeDb": -4.8,
+      "ttsPromptText": "ض — ضفدع",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_9f2cec1c88af9229",
@@ -13538,12 +13699,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_a369cae26b46680c.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_a369cae26b46680c.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 14112,
+      "durationSeconds": 2.4,
+      "maxVolumeDb": -4.9,
+      "ttsPromptText": "أنا أرى تفاحة",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_a4767153a8ab95c8",
@@ -13561,12 +13724,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_a4767153a8ab95c8.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_a4767153a8ab95c8.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 31968,
+      "durationSeconds": 5.3,
+      "maxVolumeDb": -5.8,
+      "ttsPromptText": "أضف نجمة واحدة إلى ٥ نجوم، كم يصبح المجموع؟",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_a6338d7cc6915fd1",
@@ -13634,12 +13799,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_a704a80775e1b5c9.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_a704a80775e1b5c9.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 32400,
+      "durationSeconds": 5.4,
+      "maxVolumeDb": -6.4,
+      "ttsPromptText": "تبدأ كلمة \"دب\" بحرف (د) — هيا ننطقه معاً!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_a7450522f1fc0ce7",
@@ -13915,12 +14082,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_a983676c74934211.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_a983676c74934211.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 28512,
+      "durationSeconds": 4.8,
+      "maxVolumeDb": -4.5,
+      "ttsPromptText": "أهلاً يا بطل! ده حرف الوَاو — و",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_aa221c5962692a10",
@@ -13938,12 +14107,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_aa221c5962692a10.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_aa221c5962692a10.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 27792,
+      "durationSeconds": 4.6,
+      "maxVolumeDb": -5.2,
+      "ttsPromptText": "أهلاً يا بطل! ده حرف المِيم — م",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_aa85f86fdb818b5a",
@@ -14139,12 +14310,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_ae5c4dacf9c1d8a8.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_ae5c4dacf9c1d8a8.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 39312,
+      "durationSeconds": 6.6,
+      "maxVolumeDb": -4.5,
+      "ttsPromptText": "نعدّ الأشياء حتى ١٠ ونلاحظ أي مجموعة فيها أكثر وأيها فيها أقل!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_ae68b77563ebd92d",
@@ -14366,12 +14539,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_b1acb77057b7af13.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_b1acb77057b7af13.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12672,
+      "durationSeconds": 2.1,
+      "maxVolumeDb": -5.8,
+      "ttsPromptText": "أنا أرى يد",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_b1ae65dd508469d9",
@@ -14462,12 +14637,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_b285a2cc320f6a47.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_b285a2cc320f6a47.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 45648,
+      "durationSeconds": 7.6,
+      "maxVolumeDb": -4.9,
+      "ttsPromptText": "مع تيتي ٥ جزرات، أعطت نونو ٢ جزرة. كم جزرة بقيت معها؟",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_b2c57d83d1e90b4a",
@@ -14742,12 +14919,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_b4ea760bf2073e23.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_b4ea760bf2073e23.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 11232,
+      "durationSeconds": 1.9,
+      "maxVolumeDb": -4.1,
+      "ttsPromptText": "ث — ثعلب",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_b500cc567ad3b8c3",
@@ -15101,12 +15280,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_b9ac9a5ff38befbb.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_b9ac9a5ff38befbb.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 28224,
+      "durationSeconds": 4.7,
+      "maxVolumeDb": -5.5,
+      "ttsPromptText": "أهلاً يا بطل! ده حرف الفَاء — ف",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_baf3b357ef4a4018",
@@ -15124,12 +15305,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_baf3b357ef4a4018.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_baf3b357ef4a4018.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 13248,
+      "durationSeconds": 2.2,
+      "maxVolumeDb": -4.8,
+      "ttsPromptText": "أنا أرى ليمون",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_bb12c7e97efec5e6",
@@ -15325,12 +15508,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_bd733cd038693aa8.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_bd733cd038693aa8.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 13536,
+      "durationSeconds": 2.3,
+      "maxVolumeDb": -5.5,
+      "ttsPromptText": "أنا أرى سمكة",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_bd77edb436d1a030",
@@ -15614,12 +15799,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_c1b974129f89a795.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_c1b974129f89a795.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12384,
+      "durationSeconds": 2.1,
+      "maxVolumeDb": -5.9,
+      "ttsPromptText": "ك — كتاب",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_c219a91f6a33f65f",
@@ -15781,12 +15968,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_c53c8afacb1159b4.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_c53c8afacb1159b4.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 33552,
+      "durationSeconds": 5.6,
+      "maxVolumeDb": -6.4,
+      "ttsPromptText": "تبدأ كلمة \"كتاب\" بحرف (ك) — هيا ننطقه معاً!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_c544c6ec26cdad3b",
@@ -15873,12 +16062,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_c5bec17b4e0cd2fd.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_c5bec17b4e0cd2fd.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 34848,
+      "durationSeconds": 5.8,
+      "maxVolumeDb": -6.3,
+      "ttsPromptText": "تبدأ كلمة \"رمان\" بحرف (ر) — هيا ننطقه معاً!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_c5c0d8494c9cbced",
@@ -15945,12 +16136,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_c7360fb6dfbab6c8.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_c7360fb6dfbab6c8.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 33984,
+      "durationSeconds": 5.7,
+      "maxVolumeDb": -5.7,
+      "ttsPromptText": "تبدأ كلمة \"عصفور\" بحرف (ع) — هيا ننطقه معاً!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_c819703284e8cc97",
@@ -16133,12 +16326,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_cadfa1f9572ee9af.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_cadfa1f9572ee9af.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 33120,
+      "durationSeconds": 5.5,
+      "maxVolumeDb": -6.3,
+      "ttsPromptText": "تبدأ كلمة \"شمس\" بحرف (ش) — هيا ننطقه معاً!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_cb2c7a5a5a1621a3",
@@ -16156,12 +16351,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_cb2c7a5a5a1621a3.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_cb2c7a5a5a1621a3.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 25344,
+      "durationSeconds": 4.2,
+      "maxVolumeDb": -5.7,
+      "ttsPromptText": "أهلاً يا بطل! ده حرف الأَلِف — أ",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_cb5a143c2cb012bb",
@@ -16318,10 +16515,11 @@
       "generationStatus": "ready",
       "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 19437,
-      "durationSeconds": 2.4,
-      "maxVolumeDb": null,
-      "updatedAt": "2026-11-25T10:53:16.343Z"
+      "bytes": 15696,
+      "durationSeconds": 2.6,
+      "maxVolumeDb": -5.4,
+      "updatedAt": "2026-11-25T12:12:55.446Z",
+      "ttsPromptText": "موجة بحر زرقاء"
     },
     {
       "assetId": "ar_cbbfbe73d028b245",
@@ -16385,12 +16583,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_ccad4c68021301d6.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_ccad4c68021301d6.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 33120,
+      "durationSeconds": 5.5,
+      "maxVolumeDb": -6.6,
+      "ttsPromptText": "تبدأ كلمة \"طائرة\" بحرف (ط) — هيا ننطقه معاً!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_ccc67015f42865e2",
@@ -16454,12 +16654,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_ccf6ef16899eef29.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_ccf6ef16899eef29.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 13248,
+      "durationSeconds": 2.2,
+      "maxVolumeDb": -5.4,
+      "ttsPromptText": "أنا أرى هلال",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_cd1c1bd2baadc736",
@@ -16523,12 +16725,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_cdf423148e6aa937.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_cdf423148e6aa937.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 13392,
+      "durationSeconds": 2.2,
+      "maxVolumeDb": -5.8,
+      "ttsPromptText": "أنا أرى حصان",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_ceed3b31ae7ef08b",
@@ -16671,12 +16875,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_d06c618402167a83.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_d06c618402167a83.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12816,
+      "durationSeconds": 2.1,
+      "maxVolumeDb": -5.4,
+      "ttsPromptText": "س — سمكة",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_d0b8bf940d4822fa",
@@ -16820,10 +17026,11 @@
       "generationStatus": "ready",
       "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 26541,
-      "durationSeconds": 3.3,
-      "maxVolumeDb": null,
-      "updatedAt": "2026-11-25T10:53:58.895Z"
+      "bytes": 14256,
+      "durationSeconds": 2.4,
+      "maxVolumeDb": -5.5,
+      "updatedAt": "2026-11-25T12:12:55.446Z",
+      "ttsPromptText": "زهرة عباد الشمس"
     },
     {
       "assetId": "ar_d1cc57be83f8567a",
@@ -16887,12 +17094,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_d2283bb72bd87628.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_d2283bb72bd87628.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 13680,
+      "durationSeconds": 2.3,
+      "maxVolumeDb": -6.8,
+      "ttsPromptText": "أنا أرى خروف",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_d22edb93c50ec551",
@@ -16910,12 +17119,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_d22edb93c50ec551.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_d22edb93c50ec551.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 28080,
+      "durationSeconds": 4.7,
+      "maxVolumeDb": -5.3,
+      "ttsPromptText": "أهلاً يا بطل! ده حرف اللَام — ل",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_d243c468ff156cf1",
@@ -17077,12 +17288,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_d387249039b4617b.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_d387249039b4617b.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 11520,
+      "durationSeconds": 1.9,
+      "maxVolumeDb": -4.9,
+      "ttsPromptText": "ش — شمس",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_d3b92e7fcf68bbb5",
@@ -17150,12 +17363,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_d3e0086a93677acc.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_d3e0086a93677acc.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 11232,
+      "durationSeconds": 1.9,
+      "maxVolumeDb": -5.8,
+      "ttsPromptText": "ذ — ذرة",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_d41e9709e9ea2e5b",
@@ -17407,12 +17622,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_d71dd212de0240c3.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_d71dd212de0240c3.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12672,
+      "durationSeconds": 2.1,
+      "maxVolumeDb": -7.3,
+      "ttsPromptText": "أنا أرى قمر",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_d72747f649a0959f",
@@ -17430,12 +17647,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_d72747f649a0959f.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_d72747f649a0959f.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 13824,
+      "durationSeconds": 2.3,
+      "maxVolumeDb": -6.5,
+      "ttsPromptText": "أنا أرى رمان",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_d73cbe5885111a8c",
@@ -17480,12 +17699,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_d74d3ddc727d24e6.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_d74d3ddc727d24e6.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12816,
+      "durationSeconds": 2.1,
+      "maxVolumeDb": -5.7,
+      "ttsPromptText": "أنا أرى جمل",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_d7e7c91b7c6e4431",
@@ -17667,12 +17888,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_d96e2082b6c820b4.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_d96e2082b6c820b4.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 11664,
+      "durationSeconds": 1.9,
+      "maxVolumeDb": -4.8,
+      "ttsPromptText": "ب — بطة",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_da5c71ac6f183043",
@@ -17690,12 +17913,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_da5c71ac6f183043.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_da5c71ac6f183043.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 27936,
+      "durationSeconds": 4.7,
+      "maxVolumeDb": -4.4,
+      "ttsPromptText": "أهلاً يا بطل! ده حرف الضَاد — ض",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_da9b5ea3396c47af",
@@ -17736,12 +17961,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_db6b531fc69e1708.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_db6b531fc69e1708.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 11232,
+      "durationSeconds": 1.9,
+      "maxVolumeDb": -6.3,
+      "ttsPromptText": "د — دب",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_db794f7d7fbba2b3",
@@ -18095,12 +18322,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_ddcd08fcee63c78b.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_ddcd08fcee63c78b.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12816,
+      "durationSeconds": 2.1,
+      "maxVolumeDb": -6.5,
+      "ttsPromptText": "أنا أرى نجمة",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_ddfe0819cf9521a8",
@@ -18361,12 +18590,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_e13fa7098a574ad0.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_e13fa7098a574ad0.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 13824,
+      "durationSeconds": 2.3,
+      "maxVolumeDb": -6.2,
+      "ttsPromptText": "أنا أرى طائرة",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_e250e87117e15921",
@@ -18384,12 +18615,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_e250e87117e15921.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_e250e87117e15921.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 28512,
+      "durationSeconds": 4.8,
+      "maxVolumeDb": -5.4,
+      "ttsPromptText": "أهلاً يا بطل! ده حرف الغَيْن — غ",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_e25237a6a1f1f17e",
@@ -18605,12 +18838,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_e6514188c9fdd6da.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_e6514188c9fdd6da.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 26496,
+      "durationSeconds": 4.4,
+      "maxVolumeDb": -5.2,
+      "ttsPromptText": "أهلاً يا بطل! ده حرف الدَال — د",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_e66b9d72867b0db4",
@@ -18723,12 +18958,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_e77eddd1b702ba84.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_e77eddd1b702ba84.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12816,
+      "durationSeconds": 2.1,
+      "maxVolumeDb": -5.9,
+      "ttsPromptText": "أنا أرى ثعلب",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_e7b269cad63c7608",
@@ -18925,12 +19162,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_e8da6832075e2b6b.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_e8da6832075e2b6b.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 28368,
+      "durationSeconds": 4.7,
+      "maxVolumeDb": -5.7,
+      "ttsPromptText": "أهلاً يا بطل! ده حرف الصَاد — ص",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_e8e359582abd0c3b",
@@ -18948,12 +19187,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_e8e359582abd0c3b.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_e8e359582abd0c3b.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 28368,
+      "durationSeconds": 4.7,
+      "maxVolumeDb": -5.7,
+      "ttsPromptText": "أهلاً يا بطل! ده حرف النُون — ن",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_e98c60185df1f125",
@@ -18994,12 +19235,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_e994a3f19e9ae8e7.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_e994a3f19e9ae8e7.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 15408,
+      "durationSeconds": 2.6,
+      "maxVolumeDb": -4.6,
+      "ttsPromptText": "أوراق نبات خضراء",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_e9bf5e38418711f0",
@@ -19017,12 +19260,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_e9bf5e38418711f0.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_e9bf5e38418711f0.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 32832,
+      "durationSeconds": 5.5,
+      "maxVolumeDb": -5.1,
+      "ttsPromptText": "تبدأ كلمة \"ذرة\" بحرف (ذ) — هيا ننطقه معاً!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_e9f92ff86c4f1565",
@@ -19063,12 +19308,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_ea32e1fccc10b23b.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_ea32e1fccc10b23b.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12240,
+      "durationSeconds": 2,
+      "maxVolumeDb": -6.4,
+      "ttsPromptText": "هـ — هلال",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_ea3c0deb53ba3da8",
@@ -19112,12 +19359,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_ea44b33060c8acb3.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_ea44b33060c8acb3.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 34848,
+      "durationSeconds": 5.8,
+      "maxVolumeDb": -6.5,
+      "ttsPromptText": "تبدأ كلمة \"زرافة\" بحرف (ز) — هيا ننطقه معاً!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_ea66e355899e956d",
@@ -19415,12 +19664,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_ecb82a119199d52e.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_ecb82a119199d52e.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 13536,
+      "durationSeconds": 2.3,
+      "maxVolumeDb": -7.6,
+      "ttsPromptText": "ل — ليمون",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_ecff742aa3c5ab91",
@@ -19519,12 +19770,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_ed776b90c159ef90.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_ed776b90c159ef90.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 28944,
+      "durationSeconds": 4.8,
+      "maxVolumeDb": -5.3,
+      "ttsPromptText": "أهلاً يا بطل! ده حرف اليَاء — ي",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_edb19338fa15a8b9",
@@ -19644,12 +19897,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_ee2aa36fd806686c.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_ee2aa36fd806686c.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 27504,
+      "durationSeconds": 4.6,
+      "maxVolumeDb": -5.5,
+      "ttsPromptText": "أهلاً يا بطل! ده حرف الخَاء — خ",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_ee406260c108bfc8",
@@ -19667,12 +19922,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_ee406260c108bfc8.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_ee406260c108bfc8.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 11808,
+      "durationSeconds": 2,
+      "maxVolumeDb": -4.5,
+      "ttsPromptText": "م — موز",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_eed144974a57d1bc",
@@ -19739,12 +19996,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_ef975cf2b3a1528b.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_ef975cf2b3a1528b.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 50256,
+      "durationSeconds": 8.4,
+      "maxVolumeDb": -4.7,
+      "ttsPromptText": "عندما نجمع مجموعتين صغيرتين معاً يكبر العدد، وعندما نأخذ عنصراً نعرف الباقي بسهولة!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_efb0658f4b36685a",
@@ -20332,12 +20591,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_fa522adea2b78c54.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_fa522adea2b78c54.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 27216,
+      "durationSeconds": 4.5,
+      "maxVolumeDb": -5.1,
+      "ttsPromptText": "أهلاً يا بطل! ده حرف السِين — س",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_faa145de1830b60e",
@@ -20405,12 +20666,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/ar/ar_faf1d068fce8715b.mp3",
       "audioUrl": "/assets/audio/academy/ar/ar_faf1d068fce8715b.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 11232,
+      "durationSeconds": 1.9,
+      "maxVolumeDb": -5.9,
+      "ttsPromptText": "ق — قمر",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "ar_faf708b47f89ba87",
@@ -20798,12 +21061,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_0198714b30d17088.mp3",
       "audioUrl": "/assets/audio/academy/en/en_0198714b30d17088.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12240,
+      "durationSeconds": 2,
+      "maxVolumeDb": -6.2,
+      "ttsPromptText": "Green Cucumber",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_01d591b860210334",
@@ -21083,12 +21348,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_058872ae2fc3ddfe.mp3",
       "audioUrl": "/assets/audio/academy/en/en_058872ae2fc3ddfe.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12384,
+      "durationSeconds": 2.1,
+      "maxVolumeDb": -3.1,
+      "ttsPromptText": "A is for Apple",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_05b3d706475fc450",
@@ -21207,12 +21474,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_0821fb9293eac3e2.mp3",
       "audioUrl": "/assets/audio/academy/en/en_0821fb9293eac3e2.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12384,
+      "durationSeconds": 2.1,
+      "maxVolumeDb": -5.4,
+      "ttsPromptText": "K is for Kite",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_094039dd3de81951",
@@ -21386,12 +21655,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_0b7da24a21a90890.mp3",
       "audioUrl": "/assets/audio/academy/en/en_0b7da24a21a90890.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 14256,
+      "durationSeconds": 2.4,
+      "maxVolumeDb": -4.3,
+      "ttsPromptText": "X is for Xylophone",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_0b988f4f55dea115",
@@ -21409,12 +21680,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_0b988f4f55dea115.mp3",
       "audioUrl": "/assets/audio/academy/en/en_0b988f4f55dea115.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 22896,
+      "durationSeconds": 3.8,
+      "maxVolumeDb": -3.3,
+      "ttsPromptText": "Look! A nest starts with N.",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_0cd7602bd6260c7c",
@@ -21432,12 +21705,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_0cd7602bd6260c7c.mp3",
       "audioUrl": "/assets/audio/academy/en/en_0cd7602bd6260c7c.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 11808,
+      "durationSeconds": 2,
+      "maxVolumeDb": -4.4,
+      "ttsPromptText": "M is for Moon",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_0d0f83f8113837c5",
@@ -22417,12 +22692,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_1b621fe7295d3c09.mp3",
       "audioUrl": "/assets/audio/academy/en/en_1b621fe7295d3c09.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12240,
+      "durationSeconds": 2,
+      "maxVolumeDb": -4.4,
+      "ttsPromptText": "N is for Nest",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_1c224a5e7636fe62",
@@ -22442,12 +22719,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_1c224a5e7636fe62.mp3",
       "audioUrl": "/assets/audio/academy/en/en_1c224a5e7636fe62.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 17712,
+      "durationSeconds": 3,
+      "maxVolumeDb": -4.6,
+      "ttsPromptText": "Sound out the playful word: DOG",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_1c6481103b21485b",
@@ -22646,12 +22925,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_1e2eb2ec7f23ae57.mp3",
       "audioUrl": "/assets/audio/academy/en/en_1e2eb2ec7f23ae57.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 17712,
+      "durationSeconds": 3,
+      "maxVolumeDb": -3.7,
+      "ttsPromptText": "Sound out the playful word: RED",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_1f1dedfe1cba1536",
@@ -22694,12 +22975,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_1f81a324f52fc408.mp3",
       "audioUrl": "/assets/audio/academy/en/en_1f81a324f52fc408.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 18144,
+      "durationSeconds": 3,
+      "maxVolumeDb": -3.5,
+      "ttsPromptText": "Sound out the playful word: SUN",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_1fafc68ee63cf13f",
@@ -22771,12 +23054,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_1fd6b37449cf896f.mp3",
       "audioUrl": "/assets/audio/academy/en/en_1fd6b37449cf896f.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 35424,
+      "durationSeconds": 5.9,
+      "maxVolumeDb": -3.8,
+      "ttsPromptText": "Purple — بنفسجي! Let's discover how this wonderful color appears all around us!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_1febefbb03ddaa01",
@@ -23239,12 +23524,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_28f6c511970af771.mp3",
       "audioUrl": "/assets/audio/academy/en/en_28f6c511970af771.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 13104,
+      "durationSeconds": 2.2,
+      "maxVolumeDb": -3.7,
+      "ttsPromptText": "R is for Rainbow",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_29227833baad69ac",
@@ -23285,12 +23572,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_29c0fba1440764b0.mp3",
       "audioUrl": "/assets/audio/academy/en/en_29c0fba1440764b0.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 23328,
+      "durationSeconds": 3.9,
+      "maxVolumeDb": -3.9,
+      "ttsPromptText": "Look! A panda starts with P.",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_29fe906b8b436e74",
@@ -23333,12 +23622,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_2ab2d655b34fa488.mp3",
       "audioUrl": "/assets/audio/academy/en/en_2ab2d655b34fa488.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 18000,
+      "durationSeconds": 3,
+      "maxVolumeDb": -4.2,
+      "ttsPromptText": "Sound out the playful word: MAP",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_2b97b865b697b2d1",
@@ -23506,12 +23797,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_2eb9816e3f7f084f.mp3",
       "audioUrl": "/assets/audio/academy/en/en_2eb9816e3f7f084f.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 23040,
+      "durationSeconds": 3.8,
+      "maxVolumeDb": -3.4,
+      "ttsPromptText": "Look! A cat starts with C.",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_2ee1971a061e45eb",
@@ -23603,12 +23896,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_30ca7d0243150168.mp3",
       "audioUrl": "/assets/audio/academy/en/en_30ca7d0243150168.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 23184,
+      "durationSeconds": 3.9,
+      "maxVolumeDb": -3.9,
+      "ttsPromptText": "Look! A igloo starts with I.",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_30e4527b433710fe",
@@ -24123,12 +24418,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_383f953dd87af25a.mp3",
       "audioUrl": "/assets/audio/academy/en/en_383f953dd87af25a.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 13104,
+      "durationSeconds": 2.2,
+      "maxVolumeDb": -3.2,
+      "ttsPromptText": "J is for Juice",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_385bf08551a6e3a4",
@@ -24146,12 +24443,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_385bf08551a6e3a4.mp3",
       "audioUrl": "/assets/audio/academy/en/en_385bf08551a6e3a4.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12240,
+      "durationSeconds": 2,
+      "maxVolumeDb": -5.7,
+      "ttsPromptText": "B is for Ball",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_3875ea178c9e88e8",
@@ -24224,12 +24523,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_392c1d693ab3f5c5.mp3",
       "audioUrl": "/assets/audio/academy/en/en_392c1d693ab3f5c5.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 33552,
+      "durationSeconds": 5.6,
+      "maxVolumeDb": -4.3,
+      "ttsPromptText": "Joining two small groups makes more, and taking one away shows how many remain!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_3948e34fedf1f445",
@@ -24416,12 +24717,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_3b262cd3a69fa6fb.mp3",
       "audioUrl": "/assets/audio/academy/en/en_3b262cd3a69fa6fb.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 23040,
+      "durationSeconds": 3.8,
+      "maxVolumeDb": -3.4,
+      "ttsPromptText": "Look! A sun starts with S.",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_3baeb487e3f1f149",
@@ -24517,12 +24820,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_3d04a9b08f4ce56e.mp3",
       "audioUrl": "/assets/audio/academy/en/en_3d04a9b08f4ce56e.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12816,
+      "durationSeconds": 2.1,
+      "maxVolumeDb": -4.8,
+      "ttsPromptText": "Z is for Zebra",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_3de086c9b7a8cf86",
@@ -24616,12 +24921,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_3ea173225a7ddee7.mp3",
       "audioUrl": "/assets/audio/academy/en/en_3ea173225a7ddee7.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 23472,
+      "durationSeconds": 3.9,
+      "maxVolumeDb": -3.5,
+      "ttsPromptText": "Look! A grapes starts with G.",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_3ea59427402473b0",
@@ -24685,12 +24992,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_3ee1111724a92cc3.mp3",
       "audioUrl": "/assets/audio/academy/en/en_3ee1111724a92cc3.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12240,
+      "durationSeconds": 2,
+      "maxVolumeDb": -5.6,
+      "ttsPromptText": "L is for Lion",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_3f11e1f27b3bac64",
@@ -24943,12 +25252,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_432bcfa188757f72.mp3",
       "audioUrl": "/assets/audio/academy/en/en_432bcfa188757f72.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 23904,
+      "durationSeconds": 4,
+      "maxVolumeDb": -2.8,
+      "ttsPromptText": "Look! A zebra starts with Z.",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_437d2965d579e425",
@@ -25141,12 +25452,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_46553059386d9e84.mp3",
       "audioUrl": "/assets/audio/academy/en/en_46553059386d9e84.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 17856,
+      "durationSeconds": 3,
+      "maxVolumeDb": -3.7,
+      "ttsPromptText": "Sound out the playful word: HAT",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_471480337b0b6629",
@@ -25334,12 +25647,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_48aefc98f47bc8c4.mp3",
       "audioUrl": "/assets/audio/academy/en/en_48aefc98f47bc8c4.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 13104,
+      "durationSeconds": 2.2,
+      "maxVolumeDb": -6.5,
+      "ttsPromptText": "O is for Orange",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_48afeea44c82b0f1",
@@ -25600,12 +25915,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_4bdfe5f3be3f79d8.mp3",
       "audioUrl": "/assets/audio/academy/en/en_4bdfe5f3be3f79d8.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 13536,
+      "durationSeconds": 2.3,
+      "maxVolumeDb": -2.3,
+      "ttsPromptText": "W is for Whale",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_4beec9148d6116f1",
@@ -25692,12 +26009,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_4d32502d16eb79e9.mp3",
       "audioUrl": "/assets/audio/academy/en/en_4d32502d16eb79e9.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 36000,
+      "durationSeconds": 6,
+      "maxVolumeDb": -3.6,
+      "ttsPromptText": "Orange — برتقالي! Let's discover how this wonderful color appears all around us!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_4dcda560c4479de0",
@@ -26208,12 +26527,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_571cc2f70245f5c7.mp3",
       "audioUrl": "/assets/audio/academy/en/en_571cc2f70245f5c7.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 23040,
+      "durationSeconds": 3.8,
+      "maxVolumeDb": -3.9,
+      "ttsPromptText": "Look! A hat starts with H.",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_57a42b5ab2d7feb1",
@@ -26404,12 +26725,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_5a4b0d3da325942c.mp3",
       "audioUrl": "/assets/audio/academy/en/en_5a4b0d3da325942c.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12816,
+      "durationSeconds": 2.1,
+      "maxVolumeDb": -5.3,
+      "ttsPromptText": "U is for Umbrella",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_5a9ce7e0f46d1287",
@@ -26460,12 +26783,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_5a9def9ea4efe6eb.mp3",
       "audioUrl": "/assets/audio/academy/en/en_5a9def9ea4efe6eb.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 18864,
+      "durationSeconds": 3.1,
+      "maxVolumeDb": -4.3,
+      "ttsPromptText": "Sound out the playful word: BOX",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_5b35ffc8243d85c0",
@@ -26606,12 +26931,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_5c5a08fb9ecf8eff.mp3",
       "audioUrl": "/assets/audio/academy/en/en_5c5a08fb9ecf8eff.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 17856,
+      "durationSeconds": 3,
+      "maxVolumeDb": -3.5,
+      "ttsPromptText": "Sound out the playful word: PEN",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_5ca6efadb47fda71",
@@ -26745,12 +27072,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_5df01cd2736aeab9.mp3",
       "audioUrl": "/assets/audio/academy/en/en_5df01cd2736aeab9.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12528,
+      "durationSeconds": 2.1,
+      "maxVolumeDb": -5.4,
+      "ttsPromptText": "Q is for Queen",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_5fe16044b15acc82",
@@ -26823,12 +27152,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_60c3b46efc2bddaa.mp3",
       "audioUrl": "/assets/audio/academy/en/en_60c3b46efc2bddaa.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 28944,
+      "durationSeconds": 4.8,
+      "maxVolumeDb": -3.6,
+      "ttsPromptText": "Add 1 apple to 3 apples. How many altogether?",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_60dc3df16b99549d",
@@ -27021,12 +27352,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_6303e6fb1692dab6.mp3",
       "audioUrl": "/assets/audio/academy/en/en_6303e6fb1692dab6.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 35136,
+      "durationSeconds": 5.9,
+      "maxVolumeDb": -3.7,
+      "ttsPromptText": "Pink — وردي! Let's discover how this wonderful color appears all around us!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_631b7f34cf5cbfc0",
@@ -27218,12 +27551,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_681e3365e36dc1b3.mp3",
       "audioUrl": "/assets/audio/academy/en/en_681e3365e36dc1b3.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12240,
+      "durationSeconds": 2,
+      "maxVolumeDb": -5.7,
+      "ttsPromptText": "D is for Dog",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_687143d4625c07a3",
@@ -27241,12 +27576,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_687143d4625c07a3.mp3",
       "audioUrl": "/assets/audio/academy/en/en_687143d4625c07a3.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 24192,
+      "durationSeconds": 4,
+      "maxVolumeDb": -3.1,
+      "ttsPromptText": "Look! A whale starts with W.",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_68b8e34446db0a67",
@@ -27342,12 +27679,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_6a42dcccc9d3bc58.mp3",
       "audioUrl": "/assets/audio/academy/en/en_6a42dcccc9d3bc58.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 36144,
+      "durationSeconds": 6,
+      "maxVolumeDb": -3.7,
+      "ttsPromptText": "Nono had 2 apples and Lolo gave him 2 more. How many apples now?",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_6a44dbcf94d36c02",
@@ -27535,12 +27874,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_6e0f5601b805c172.mp3",
       "audioUrl": "/assets/audio/academy/en/en_6e0f5601b805c172.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12528,
+      "durationSeconds": 2.1,
+      "maxVolumeDb": -5,
+      "ttsPromptText": "C is for Cat",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_6e1c49655eaf4c0f",
@@ -27673,12 +28014,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_70f9ba55c2f1268e.mp3",
       "audioUrl": "/assets/audio/academy/en/en_70f9ba55c2f1268e.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 35136,
+      "durationSeconds": 5.9,
+      "maxVolumeDb": -3.6,
+      "ttsPromptText": "White — أبيض! Let's discover how this wonderful color appears all around us!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_71aad93bbf863b2d",
@@ -27795,12 +28138,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_72e996182095fb33.mp3",
       "audioUrl": "/assets/audio/academy/en/en_72e996182095fb33.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 42336,
+      "durationSeconds": 7.1,
+      "maxVolumeDb": -3.1,
+      "ttsPromptText": "A number is not just a symbol! Number 3 means three real objects we can count one by one.",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_73603282b7b231b5",
@@ -27887,12 +28232,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_74fbf5bd43aabfa5.mp3",
       "audioUrl": "/assets/audio/academy/en/en_74fbf5bd43aabfa5.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12960,
+      "durationSeconds": 2.2,
+      "maxVolumeDb": -4.2,
+      "ttsPromptText": "G is for Grapes",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_75269c56bdb4423f",
@@ -28186,12 +28533,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_7900e889e13ce58a.mp3",
       "audioUrl": "/assets/audio/academy/en/en_7900e889e13ce58a.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12096,
+      "durationSeconds": 2,
+      "maxVolumeDb": -4.7,
+      "ttsPromptText": "S is for Sun",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_7943d18197ae315c",
@@ -28419,12 +28768,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_7f148c6a002b3d91.mp3",
       "audioUrl": "/assets/audio/academy/en/en_7f148c6a002b3d91.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 18144,
+      "durationSeconds": 3,
+      "maxVolumeDb": -4.5,
+      "ttsPromptText": "Sound out the playful word: CAT",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_7f38e8584249ef19",
@@ -28564,12 +28915,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_8050d423b4a33c16.mp3",
       "audioUrl": "/assets/audio/academy/en/en_8050d423b4a33c16.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12384,
+      "durationSeconds": 2.1,
+      "maxVolumeDb": -4.6,
+      "ttsPromptText": "F is for Fish",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_80ede691510e99fd",
@@ -28702,12 +29055,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_823db88726e3e11b.mp3",
       "audioUrl": "/assets/audio/academy/en/en_823db88726e3e11b.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 22608,
+      "durationSeconds": 3.8,
+      "maxVolumeDb": -3.9,
+      "ttsPromptText": "Look! A orange starts with O.",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_8394159d257258f1",
@@ -29051,12 +29406,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_891e93a338bc5c5c.mp3",
       "audioUrl": "/assets/audio/academy/en/en_891e93a338bc5c5c.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 35856,
+      "durationSeconds": 6,
+      "maxVolumeDb": -3.8,
+      "ttsPromptText": "Yellow — أصفر! Let's discover how this wonderful color appears all around us!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_8aba6777530bf53c",
@@ -29074,12 +29431,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_8aba6777530bf53c.mp3",
       "audioUrl": "/assets/audio/academy/en/en_8aba6777530bf53c.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12240,
+      "durationSeconds": 2,
+      "maxVolumeDb": -3.3,
+      "ttsPromptText": "Yellow Taxi",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_8acb9c700c7843bc",
@@ -29097,12 +29456,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_8acb9c700c7843bc.mp3",
       "audioUrl": "/assets/audio/academy/en/en_8acb9c700c7843bc.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 11232,
+      "durationSeconds": 1.9,
+      "maxVolumeDb": -4.7,
+      "ttsPromptText": "Blueberries",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_8b0f41e4727e97b6",
@@ -29120,12 +29481,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_8b0f41e4727e97b6.mp3",
       "audioUrl": "/assets/audio/academy/en/en_8b0f41e4727e97b6.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 27936,
+      "durationSeconds": 4.7,
+      "maxVolumeDb": -3.2,
+      "ttsPromptText": "Add 1 star to 5 stars. How many now?",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_8b3b8814f377a829",
@@ -29438,12 +29801,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_8fc36d92c09ff10a.mp3",
       "audioUrl": "/assets/audio/academy/en/en_8fc36d92c09ff10a.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 24048,
+      "durationSeconds": 4,
+      "maxVolumeDb": -3,
+      "ttsPromptText": "Look! A yo-yo starts with Y.",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_8fe85d83690dc81a",
@@ -29774,12 +30139,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_94320a8dee2f2da8.mp3",
       "audioUrl": "/assets/audio/academy/en/en_94320a8dee2f2da8.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 13248,
+      "durationSeconds": 2.2,
+      "maxVolumeDb": -5.2,
+      "ttsPromptText": "E is for Elephant",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_944187f9fed6e693",
@@ -29828,12 +30195,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_94597db006208663.mp3",
       "audioUrl": "/assets/audio/academy/en/en_94597db006208663.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 23616,
+      "durationSeconds": 3.9,
+      "maxVolumeDb": -2.8,
+      "ttsPromptText": "Look! A juice starts with J.",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_95270f8130a8d95f",
@@ -29851,12 +30220,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_95270f8130a8d95f.mp3",
       "audioUrl": "/assets/audio/academy/en/en_95270f8130a8d95f.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 28512,
+      "durationSeconds": 4.8,
+      "maxVolumeDb": -4,
+      "ttsPromptText": "We count objects up to 10 and spot which basket has more or fewer!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_9553ce807eba7b10",
@@ -30405,12 +30776,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_9c95a1eb858260b5.mp3",
       "audioUrl": "/assets/audio/academy/en/en_9c95a1eb858260b5.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 23040,
+      "durationSeconds": 3.8,
+      "maxVolumeDb": -2.7,
+      "ttsPromptText": "Look! A tree starts with T.",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_9cccc93396202e04",
@@ -30428,12 +30801,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_9cccc93396202e04.mp3",
       "audioUrl": "/assets/audio/academy/en/en_9cccc93396202e04.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 23616,
+      "durationSeconds": 3.9,
+      "maxVolumeDb": -3.9,
+      "ttsPromptText": "Look! A kite starts with K.",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_9d13905583753e65",
@@ -30497,12 +30872,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_9d1cb4925727c438.mp3",
       "audioUrl": "/assets/audio/academy/en/en_9d1cb4925727c438.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12384,
+      "durationSeconds": 2.1,
+      "maxVolumeDb": -4.4,
+      "ttsPromptText": "T is for Tree",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_9d64f070944a566c",
@@ -30619,12 +30996,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_9eab27fc049eb940.mp3",
       "audioUrl": "/assets/audio/academy/en/en_9eab27fc049eb940.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 35136,
+      "durationSeconds": 5.9,
+      "maxVolumeDb": -3.6,
+      "ttsPromptText": "Blue — أزرق! Let's discover how this wonderful color appears all around us!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_9f31762f12f35320",
@@ -30914,12 +31293,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_a4afed0fb780503c.mp3",
       "audioUrl": "/assets/audio/academy/en/en_a4afed0fb780503c.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 18000,
+      "durationSeconds": 3,
+      "maxVolumeDb": -3.8,
+      "ttsPromptText": "Sound out the playful word: CUP",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_a5239b65bde93b39",
@@ -30939,12 +31320,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_a5239b65bde93b39.mp3",
       "audioUrl": "/assets/audio/academy/en/en_a5239b65bde93b39.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 17568,
+      "durationSeconds": 2.9,
+      "maxVolumeDb": -4,
+      "ttsPromptText": "Sound out the playful word: BAT",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_a5b8492ce02d2d88",
@@ -31351,12 +31734,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_adbf60c09df82828.mp3",
       "audioUrl": "/assets/audio/academy/en/en_adbf60c09df82828.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 37152,
+      "durationSeconds": 6.2,
+      "maxVolumeDb": -4.1,
+      "ttsPromptText": "Titi had 5 carrots and shared 2 with Nono. How many carrots remain?",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_add2a56163e30a56",
@@ -32362,12 +32747,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_c02d45ee22233433.mp3",
       "audioUrl": "/assets/audio/academy/en/en_c02d45ee22233433.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 23616,
+      "durationSeconds": 3.9,
+      "maxVolumeDb": -3.9,
+      "ttsPromptText": "Look! A elephant starts with E.",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_c03d1f28bbc41af2",
@@ -32385,12 +32772,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_c03d1f28bbc41af2.mp3",
       "audioUrl": "/assets/audio/academy/en/en_c03d1f28bbc41af2.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 22896,
+      "durationSeconds": 3.8,
+      "maxVolumeDb": -3.9,
+      "ttsPromptText": "Look! A dog starts with D.",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_c0b835174a0eab5c",
@@ -32553,12 +32942,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_c18c2dfec60aba54.mp3",
       "audioUrl": "/assets/audio/academy/en/en_c18c2dfec60aba54.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 22896,
+      "durationSeconds": 3.8,
+      "maxVolumeDb": -3.9,
+      "ttsPromptText": "Look! A fish starts with F.",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_c1b4675d624aca08",
@@ -32823,12 +33214,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_c59e10f7a83f279f.mp3",
       "audioUrl": "/assets/audio/academy/en/en_c59e10f7a83f279f.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 13104,
+      "durationSeconds": 2.2,
+      "maxVolumeDb": -5.2,
+      "ttsPromptText": "P is for Panda",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_c64fc9e81cb1d537",
@@ -32994,12 +33387,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_c7f3bff0ff50895b.mp3",
       "audioUrl": "/assets/audio/academy/en/en_c7f3bff0ff50895b.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 23040,
+      "durationSeconds": 3.8,
+      "maxVolumeDb": -3.9,
+      "ttsPromptText": "Look! A lion starts with L.",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_c8f5b804fff2f739",
@@ -33223,12 +33618,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_cb763e1e8f90e543.mp3",
       "audioUrl": "/assets/audio/academy/en/en_cb763e1e8f90e543.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12528,
+      "durationSeconds": 2.1,
+      "maxVolumeDb": -4.6,
+      "ttsPromptText": "I is for Igloo",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_cba96026642c93a2",
@@ -33718,12 +34115,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_d0216f49ec87df7d.mp3",
       "audioUrl": "/assets/audio/academy/en/en_d0216f49ec87df7d.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12240,
+      "durationSeconds": 2,
+      "maxVolumeDb": -4.8,
+      "ttsPromptText": "H is for Hat",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_d022bc2eb0e33749",
@@ -33821,12 +34220,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_d110e10b011a3037.mp3",
       "audioUrl": "/assets/audio/academy/en/en_d110e10b011a3037.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12672,
+      "durationSeconds": 2.1,
+      "maxVolumeDb": -3.7,
+      "ttsPromptText": "Red Toy Truck",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_d1733065b78abe21",
@@ -33844,12 +34245,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_d1733065b78abe21.mp3",
       "audioUrl": "/assets/audio/academy/en/en_d1733065b78abe21.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 24480,
+      "durationSeconds": 4.1,
+      "maxVolumeDb": -3.4,
+      "ttsPromptText": "Look! A violin starts with V.",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_d1e2caac1ad84f86",
@@ -34276,12 +34679,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_d92ebe0ab0774a95.mp3",
       "audioUrl": "/assets/audio/academy/en/en_d92ebe0ab0774a95.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 22608,
+      "durationSeconds": 3.8,
+      "maxVolumeDb": -3.9,
+      "ttsPromptText": "Look! A ball starts with B.",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_d93676ddaf8f7a30",
@@ -34391,12 +34796,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_da039b03a227960e.mp3",
       "audioUrl": "/assets/audio/academy/en/en_da039b03a227960e.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 37152,
+      "durationSeconds": 6.2,
+      "maxVolumeDb": -3.1,
+      "ttsPromptText": "A basket holds 4 stars and we add 2 more. How many stars altogether?",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_da592fd59447b72e",
@@ -34486,12 +34893,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_dc4e7b377042b7f6.mp3",
       "audioUrl": "/assets/audio/academy/en/en_dc4e7b377042b7f6.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 23616,
+      "durationSeconds": 3.9,
+      "maxVolumeDb": -3.9,
+      "ttsPromptText": "Look! A rainbow starts with R.",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_dcb3a622c70bfb4a",
@@ -34831,12 +35240,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_e1cb0f3c35c74f78.mp3",
       "audioUrl": "/assets/audio/academy/en/en_e1cb0f3c35c74f78.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 11232,
+      "durationSeconds": 1.9,
+      "maxVolumeDb": -2.9,
+      "ttsPromptText": "Red Shirt",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_e239e052fbdc6a23",
@@ -34932,12 +35343,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_e3a930207ebe82be.mp3",
       "audioUrl": "/assets/audio/academy/en/en_e3a930207ebe82be.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 23616,
+      "durationSeconds": 3.9,
+      "maxVolumeDb": -2.3,
+      "ttsPromptText": "Look! A queen starts with Q.",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_e4307d2bd3cecfa9",
@@ -35053,12 +35466,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_e7bf8bd9163f37a2.mp3",
       "audioUrl": "/assets/audio/academy/en/en_e7bf8bd9163f37a2.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 22896,
+      "durationSeconds": 3.8,
+      "maxVolumeDb": -3.8,
+      "ttsPromptText": "Look! A apple starts with A.",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_e7e561ad83fb8b25",
@@ -35127,12 +35542,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_e8a118968563845c.mp3",
       "audioUrl": "/assets/audio/academy/en/en_e8a118968563845c.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12960,
+      "durationSeconds": 2.2,
+      "maxVolumeDb": -2.8,
+      "ttsPromptText": "Yellow Sunflower",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_e924995182d8339c",
@@ -35173,12 +35590,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_e985aa44213281be.mp3",
       "audioUrl": "/assets/audio/academy/en/en_e985aa44213281be.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 23616,
+      "durationSeconds": 3.9,
+      "maxVolumeDb": -5.4,
+      "ttsPromptText": "3 cupcakes plus 3 more cupcakes makes how many?",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_e99be8a94b760d1a",
@@ -35340,12 +35759,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_eacb666616fba969.mp3",
       "audioUrl": "/assets/audio/academy/en/en_eacb666616fba969.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 35136,
+      "durationSeconds": 5.9,
+      "maxVolumeDb": -3.7,
+      "ttsPromptText": "Red — أحمر! Let's discover how this wonderful color appears all around us!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_eb173d634d0389b0",
@@ -35480,12 +35901,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_ec1f7cbe7096c9f3.mp3",
       "audioUrl": "/assets/audio/academy/en/en_ec1f7cbe7096c9f3.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 12672,
+      "durationSeconds": 2.1,
+      "maxVolumeDb": -6.3,
+      "ttsPromptText": "Blue Ocean Wave",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_ec7fde6e0ca256e4",
@@ -36165,12 +36588,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_f5e98c7b036b9107.mp3",
       "audioUrl": "/assets/audio/academy/en/en_f5e98c7b036b9107.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 35424,
+      "durationSeconds": 5.9,
+      "maxVolumeDb": -3.3,
+      "ttsPromptText": "Green — أخضر! Let's discover how this wonderful color appears all around us!",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_f66d3519591cb710",
@@ -36188,12 +36613,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_f66d3519591cb710.mp3",
       "audioUrl": "/assets/audio/academy/en/en_f66d3519591cb710.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 25056,
+      "durationSeconds": 4.2,
+      "maxVolumeDb": -3.8,
+      "ttsPromptText": "Look! A xylophone starts with X.",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_f758ddb5f0758ec6",
@@ -36211,12 +36638,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_f758ddb5f0758ec6.mp3",
       "audioUrl": "/assets/audio/academy/en/en_f758ddb5f0758ec6.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 13680,
+      "durationSeconds": 2.3,
+      "maxVolumeDb": -5.6,
+      "ttsPromptText": "V is for Violin",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_f80934aec9fee8f3",
@@ -36326,12 +36755,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_f9b9c6133b045ec8.mp3",
       "audioUrl": "/assets/audio/academy/en/en_f9b9c6133b045ec8.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 22464,
+      "durationSeconds": 3.7,
+      "maxVolumeDb": -3.4,
+      "ttsPromptText": "Look! A moon starts with M.",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_f9d48b9ad2c6350a",
@@ -36631,12 +37062,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_fbf34ad21f1faf39.mp3",
       "audioUrl": "/assets/audio/academy/en/en_fbf34ad21f1faf39.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 13248,
+      "durationSeconds": 2.2,
+      "maxVolumeDb": -3.4,
+      "ttsPromptText": "Y is for Yo-yo",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_fc10be0563dfde53",
@@ -36731,12 +37164,14 @@
       ],
       "mp3Path": "public/assets/audio/academy/en/en_fd5738a54454ad53.mp3",
       "audioUrl": "/assets/audio/academy/en/en_fd5738a54454ad53.mp3",
-      "generationStatus": "pending",
-      "validationStatus": "missing",
+      "generationStatus": "ready",
+      "validationStatus": "valid",
       "pronunciationReviewStatus": "not-applicable",
-      "bytes": 0,
-      "durationSeconds": null,
-      "maxVolumeDb": null
+      "bytes": 23328,
+      "durationSeconds": 3.9,
+      "maxVolumeDb": -3.9,
+      "ttsPromptText": "Look! A umbrella starts with U.",
+      "updatedAt": "2026-11-25T12:12:55.446Z"
     },
     {
       "assetId": "en_fd79910f875002ff",
